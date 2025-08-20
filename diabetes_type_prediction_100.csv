@@ -1,0 +1,101 @@
+Age,Sex,BMI,SystolicBP,DiastolicBP,FastingGlucose_mgdl,HbA1c,TotalCholesterol,Triglycerides,ActivityLevel,Smoker,RetinaFinding,FamilyHistory_T2D,AutoimmuneHistory,GAD65_Antibody,C_Peptide_ngml,OnsetAge,DKA_History,PastDiseases,DiabetesType
+69,Female,23.7,124,82,92.4,6.4,189,50,Low,No,Mild NPDR,None,No,Negative,3.12,69,Yes,Hypertension,2
+50,Male,24.7,120,63,139.4,7.1,200,53,Low,No,None,None,No,Positive,3.69,47,No,Thyroid,2
+41,Male,18.7,117,55,156.7,6.7,160,235,High,No,None,None,No,Positive,0.71,40,No,Hypertension,2
+22,Female,33.3,150,74,149.4,6.9,212,107,High,Yes,None,First-degree,No,Positive,0.66,9,No,Hypertension,2
+46,Male,23.4,152,80,123.6,7.1,184,138,Moderate,No,Mild NPDR,First-degree,No,Negative,0.91,45,No,None,2
+36,Male,16.5,122,94,106.6,5.5,142,86,Low,No,None,Second-degree,No,Negative,1.93,27,No,None,2
+43,Female,33.2,146,75,131.6,7.8,182,50,Low,No,None,First-degree,Yes,Negative,2.79,43,No,Hypertension,2
+38,Female,23.0,119,90,173.5,8.2,211,207,Moderate,No,Mild NPDR,First-degree,No,Negative,2.19,34,No,Hypertension,2
+78,Male,30.3,118,73,89.7,6.8,205,58,Low,No,Mild NPDR,Second-degree,No,Negative,2.64,72,No,Dyslipidemia,2
+69,Male,23.7,119,80,157.0,7.9,140,172,Moderate,No,None,None,Yes,Negative,2.22,63,No,None,2
+35,Female,21.8,133,79,117.3,7.7,209,185,Moderate,Yes,None,None,No,Positive,3.07,33,No,Hypertension,2
+33,Female,27.0,107,59,123.1,5.2,120,186,Moderate,No,Severe NPDR/Proliferative,None,No,Negative,1.56,32,No,Hypertension,2
+22,Male,23.4,119,69,110.2,4.8,190,50,Moderate,No,None,None,No,Negative,2.03,22,No,Dyslipidemia,1
+17,Male,21.8,142,87,87.5,6.8,264,55,Moderate,No,None,None,No,Negative,2.63,17,No,CVD,1
+24,Female,21.9,111,79,116.8,7.9,152,150,Low,Yes,None,None,Yes,Positive,3.06,23,No,Hypertension,1
+34,Male,27.9,128,90,124.1,4.6,135,211,Low,Yes,Mild NPDR,None,No,Negative,1.97,34,No,None,2
+59,Female,22.0,93,98,70.0,6.9,227,170,Moderate,No,None,None,Yes,Negative,0.68,59,No,PCOS,2
+36,Male,29.9,128,86,104.5,6.3,144,137,High,Yes,None,Second-degree,No,Negative,2.73,31,No,Dyslipidemia,2
+32,Female,26.2,121,83,126.2,8.9,181,144,High,Yes,Mild NPDR,None,No,Positive,1.26,29,No,Hypertension,1
+41,Female,29.6,122,72,154.1,7.3,205,241,High,Yes,Mild NPDR,First-degree,No,Positive,3.23,36,No,Hypertension,2
+39,Male,16.5,143,78,145.8,5.7,241,118,Low,No,None,None,Yes,Negative,2.1,28,No,Dyslipidemia,2
+39,Female,28.2,124,87,103.6,5.3,189,203,Moderate,No,Severe NPDR/Proliferative,None,No,Negative,3.32,39,No,None,2
+65,Male,26.3,116,81,102.4,7.3,189,257,Moderate,No,Mild NPDR,None,No,Negative,2.65,58,No,Dyslipidemia,2
+32,Female,23.9,90,87,99.4,4.5,120,144,Low,No,Mild NPDR,None,No,Negative,2.88,28,No,Hypertension,2
+20,Male,30.4,131,77,164.9,6.2,173,231,High,Yes,None,None,No,Negative,3.85,17,No,None,2
+47,Female,25.1,100,80,152.6,7.0,187,257,High,No,None,First-degree,Yes,Negative,1.08,36,No,None,2
+63,Male,27.5,111,71,220.1,7.3,159,181,Moderate,Yes,Moderate NPDR,None,No,Negative,2.77,61,No,Hypertension,2
+51,Female,25.7,99,89,147.1,6.8,179,176,High,No,Moderate NPDR,None,No,Negative,1.58,41,No,PCOS,2
+48,Female,18.8,122,76,182.4,6.3,133,114,High,Yes,None,First-degree,Yes,Negative,1.19,42,No,None,2
+68,Male,22.3,163,97,112.9,4.5,186,165,Low,Yes,None,First-degree,No,Negative,0.13,65,No,Hypertension,2
+52,Male,31.0,116,80,97.1,5.5,193,196,High,Yes,None,None,No,Negative,1.69,37,No,Dyslipidemia,2
+43,Male,34.9,123,66,70.0,7.5,189,197,Moderate,No,Mild NPDR,First-degree,No,Negative,3.03,39,No,Hypertension,2
+5,Female,14.0,122,76,134.1,6.8,196,215,High,Yes,Mild NPDR,Second-degree,No,Negative,1.4,1,No,Thyroid,2
+42,Female,28.4,147,88,117.9,7.7,132,190,Low,No,None,None,Yes,Negative,2.33,30,Yes,Dyslipidemia,2
+52,Male,23.9,138,91,90.9,4.6,184,219,Low,No,None,Second-degree,No,Negative,1.87,45,No,Hypertension,2
+31,Female,19.1,128,70,81.0,5.8,131,159,Low,Yes,None,None,No,Negative,1.59,26,No,None,2
+40,Female,28.6,131,69,139.9,7.4,202,132,Low,No,Mild NPDR,None,Yes,Negative,1.82,40,No,Hypertension,2
+50,Male,24.2,135,82,157.1,4.5,165,90,Low,Yes,Severe NPDR/Proliferative,None,No,Positive,2.1,43,No,None,2
+72,Male,14.0,119,81,120.2,6.3,135,94,Moderate,No,None,First-degree,No,Negative,2.85,72,No,None,2
+43,Male,24.8,132,79,98.2,6.7,142,217,Moderate,Yes,None,None,Yes,Negative,3.26,34,No,None,2
+59,Female,30.5,120,87,104.9,5.8,167,150,Low,No,None,Second-degree,No,Negative,1.91,56,No,None,2
+58,Male,23.5,102,85,159.8,7.1,138,178,Low,Yes,None,None,No,Negative,3.57,45,No,None,2
+28,Female,28.5,104,80,166.0,7.5,154,50,High,Yes,None,First-degree,No,Positive,1.05,15,Yes,Hypertension,2
+25,Male,19.5,107,74,75.1,8.2,160,105,High,No,None,None,No,Negative,2.48,25,No,Hypertension,1
+46,Female,26.7,131,80,87.0,4.8,197,77,High,No,Mild NPDR,Second-degree,No,Negative,3.43,43,No,Dyslipidemia,2
+33,Female,25.3,138,63,70.0,6.5,182,171,Moderate,Yes,Moderate NPDR,None,No,Negative,2.6,29,No,None,1
+43,Female,21.8,107,84,139.9,4.7,145,180,High,No,Mild NPDR,First-degree,Yes,Positive,3.16,36,No,None,2
+82,Female,28.4,137,84,152.7,7.9,176,212,Moderate,No,None,Second-degree,No,Negative,2.27,82,Yes,Hypertension,2
+52,Female,32.4,126,70,115.8,6.1,265,222,Moderate,Yes,None,First-degree,Yes,Negative,3.34,50,No,Hypertension,2
+68,Female,28.9,123,88,107.0,7.5,161,92,Low,No,None,None,No,Negative,2.71,66,No,Dyslipidemia,2
+42,Female,20.3,95,60,136.2,5.5,235,259,Moderate,No,None,First-degree,No,Positive,1.94,42,No,Thyroid,2
+38,Female,30.8,109,84,103.9,6.4,215,172,High,Yes,Moderate NPDR,First-degree,No,Negative,2.13,38,Yes,Dyslipidemia,2
+50,Male,29.4,112,81,73.7,7.9,180,154,Low,Yes,None,First-degree,No,Negative,3.28,46,No,None,2
+32,Male,19.0,120,88,127.8,7.9,148,98,High,Yes,None,None,No,Negative,1.78,31,No,Hypertension,1
+51,Male,25.2,123,91,99.5,6.7,254,167,High,No,None,None,No,Negative,2.84,44,No,Dyslipidemia,1
+23,Female,20.7,148,81,110.8,5.1,204,167,Moderate,No,None,Second-degree,No,Positive,1.58,12,No,None,1
+46,Male,26.4,121,60,121.7,5.5,191,192,Moderate,No,Mild NPDR,First-degree,No,Positive,1.59,37,No,Hypertension,2
+31,Male,14.0,123,84,159.3,6.4,164,128,High,Yes,Mild NPDR,None,No,Negative,2.95,22,No,None,1
+46,Male,18.2,129,73,112.2,7.3,235,50,Moderate,Yes,Moderate NPDR,None,No,Negative,3.1,45,No,Hypertension,2
+45,Female,32.5,115,69,162.9,9.9,215,222,Moderate,Yes,Moderate NPDR,Second-degree,Yes,Positive,1.77,35,No,None,2
+12,Female,15.5,95,79,150.6,5.6,173,252,Low,No,Moderate NPDR,First-degree,No,Negative,2.12,2,No,None,2
+54,Male,22.3,139,86,96.9,5.8,221,170,Moderate,No,None,First-degree,No,Negative,2.44,42,No,None,2
+5,Female,14.9,130,98,107.0,5.0,274,171,Moderate,No,None,Second-degree,No,Negative,1.96,1,No,Hypertension,2
+37,Female,23.3,116,93,99.4,7.2,200,176,Moderate,Yes,None,None,No,Positive,1.41,37,No,PCOS,2
+27,Female,19.5,126,75,116.3,6.7,130,214,High,Yes,None,None,No,Positive,2.41,23,No,CVD,1
+42,Male,21.7,141,73,94.6,4.6,190,86,High,No,Moderate NPDR,Second-degree,No,Negative,1.73,41,Yes,Dyslipidemia,2
+46,Female,24.0,119,72,142.6,7.1,173,219,High,Yes,Mild NPDR,None,Yes,Negative,2.29,40,No,Hypertension,2
+45,Female,26.3,117,69,112.1,6.9,184,149,Moderate,No,None,First-degree,No,Negative,1.78,43,No,Hypertension,2
+54,Female,30.0,136,76,113.2,5.3,220,50,Low,Yes,Mild NPDR,None,No,Negative,1.85,49,No,Hypertension,2
+26,Female,18.9,113,79,121.9,6.5,162,145,Moderate,No,None,None,Yes,Negative,3.1,17,Yes,None,1
+50,Female,23.7,133,70,120.2,8.6,265,50,High,Yes,Moderate NPDR,First-degree,No,Negative,2.83,50,No,Hypertension,2
+66,Female,23.5,130,77,70.0,6.5,182,224,Low,No,None,Second-degree,Yes,Negative,4.08,66,No,Thyroid,2
+45,Male,31.1,102,66,70.0,6.9,189,115,Low,No,Moderate NPDR,None,No,Negative,1.55,39,No,PCOS,2
+34,Male,32.9,128,69,99.6,7.9,208,180,Low,Yes,None,First-degree,No,Negative,2.85,34,No,None,2
+14,Female,20.5,118,71,93.3,7.2,184,122,Moderate,Yes,Mild NPDR,None,No,Negative,3.33,5,No,PCOS,2
+36,Female,23.3,113,76,147.4,8.0,211,140,Low,Yes,None,None,No,Positive,0.86,34,No,CVD,2
+39,Female,30.0,118,77,76.8,5.8,195,148,High,No,Mild NPDR,None,Yes,Negative,2.89,39,No,Hypertension,2
+30,Male,22.7,109,78,134.7,7.2,197,171,High,Yes,None,None,No,Negative,2.08,23,No,Thyroid,2
+27,Female,21.5,115,78,164.1,8.5,232,236,High,Yes,None,None,No,Negative,3.2,27,Yes,None,1
+14,Female,17.4,151,72,98.1,7.7,193,126,Low,No,None,None,No,Negative,3.6,14,No,Dyslipidemia,1
+49,Female,27.9,135,89,159.4,7.4,217,79,High,No,None,First-degree,No,Negative,2.78,49,No,CVD,2
+41,Female,19.9,129,80,86.8,6.4,232,234,Low,Yes,None,None,No,Positive,3.11,37,No,Dyslipidemia,2
+51,Male,37.8,145,93,167.2,5.4,181,129,Moderate,No,Moderate NPDR,None,No,Negative,3.32,51,Yes,None,2
+50,Male,23.6,114,71,151.0,6.0,235,166,Moderate,Yes,Mild NPDR,None,No,Negative,2.88,50,No,None,2
+48,Male,20.8,113,76,125.5,5.3,174,200,Low,No,None,First-degree,No,Negative,3.41,35,No,Dyslipidemia,2
+24,Female,18.7,130,73,124.7,7.8,175,171,Moderate,No,None,None,No,Negative,2.63,24,No,None,1
+45,Male,24.8,159,84,134.9,5.6,221,105,Moderate,No,Mild NPDR,None,No,Positive,1.79,35,No,None,2
+18,Female,21.5,122,65,76.4,5.2,134,202,Low,No,None,Second-degree,Yes,Negative,1.31,18,No,Dyslipidemia,1
+42,Male,23.6,107,74,111.6,7.5,230,83,Moderate,Yes,None,First-degree,Yes,Positive,1.84,41,Yes,Dyslipidemia,1
+62,Female,25.2,146,73,91.0,6.4,236,162,Moderate,No,Severe NPDR/Proliferative,First-degree,No,Negative,0.1,62,No,None,2
+23,Male,16.8,105,68,98.6,6.4,176,56,High,Yes,None,None,No,Negative,2.04,23,No,Hypertension,1
+51,Female,30.5,144,94,108.8,6.3,248,269,Moderate,No,None,First-degree,Yes,Negative,3.59,36,No,Dyslipidemia,2
+53,Male,26.3,124,76,165.6,7.0,231,198,High,Yes,None,None,No,Negative,2.52,52,Yes,None,2
+53,Male,29.6,121,85,151.5,5.6,184,128,Low,No,None,None,No,Negative,1.39,51,No,Thyroid,2
+45,Male,27.7,128,100,102.4,6.8,141,193,Moderate,Yes,None,None,No,Negative,3.24,45,No,None,2
+62,Female,25.5,138,68,168.4,8.6,208,104,High,Yes,Mild NPDR,First-degree,No,Positive,2.06,59,No,None,2
+38,Female,27.0,144,57,72.0,4.5,162,50,Moderate,No,Mild NPDR,None,No,Negative,2.7,35,No,Thyroid,2
+44,Male,26.9,128,70,142.7,5.3,239,50,Moderate,Yes,None,Second-degree,No,Negative,1.67,34,No,Dyslipidemia,2
+71,Male,18.3,154,82,121.1,7.3,277,222,Low,Yes,None,First-degree,No,Negative,0.19,71,Yes,None,2
+54,Male,19.9,126,80,97.3,7.2,149,173,Low,Yes,Mild NPDR,First-degree,No,Positive,1.71,50,No,None,2
